@@ -28,6 +28,7 @@ body {
   max-width: 330px;
   text-align: center;
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+  margin: 2rem;
 }
 
 .qr_code img {
